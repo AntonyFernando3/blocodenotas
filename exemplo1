@@ -1,0 +1,17 @@
+#include <stdio.h>
+main() {
+    int v[10], i;
+    for (i=0; i<10; i++)
+      {
+      printf("\n Valor da posição %d=", i);
+      scanf("%d",&v[i]);
+      }
+      printf("\n Imprimindo o Vetor: ");
+      for(i=0; i<10; i++) printf("%d \t", v[i]);
+      printf("\n");
+      }
+      
+      
+      
+      
+      
