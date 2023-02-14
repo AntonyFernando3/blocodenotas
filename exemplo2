@@ -1,0 +1,8 @@
+#include <stdio.h>
+  main() {
+     int n;
+     do
+     {
+      printf("\n Indique o tamanho do vetor: ")
+      scanf("%d",&n)
+} while (n
